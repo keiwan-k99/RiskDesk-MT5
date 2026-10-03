@@ -27,9 +27,9 @@ RiskDesk replaces scattered order dialogs and manual lot math with one clean pan
 
 ## Screenshots
 
-| Panel | Trade Setup |
+| Panel | Trade box |
 |:---:|:---:|
-| ![Panel](docs/screenshot-panel.png) | ![Setup](docs/screenshot-setup.png) |
+| ![Panel](docs/screenshot-panel.png) | ![Setup](docs/screenshot-box.png) |
 
 ---
 
