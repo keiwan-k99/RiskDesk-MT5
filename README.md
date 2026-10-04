@@ -120,3 +120,8 @@ MIT — see [LICENSE](LICENSE).
 - **Developer:** Keiwan
 - **Telegram:** [@keiwan_k99](https://t.me/keiwan_k99)
 - **Issues:** [GitHub Issues](https://github.com/keiwan/RiskDesk-MT5/issues)
+
+## Updates
+
+Follow [@keiwan_dev](https://t.me/keiwan_dev) on Telegram for release
+announcements and devlogs.
